@@ -1,0 +1,12 @@
+/Users/codenationstudent/Desktop/CSharp/intro/bin/Debug/netcoreapp3.1/intro.deps.json
+/Users/codenationstudent/Desktop/CSharp/intro/bin/Debug/netcoreapp3.1/intro.runtimeconfig.json
+/Users/codenationstudent/Desktop/CSharp/intro/bin/Debug/netcoreapp3.1/intro.runtimeconfig.dev.json
+/Users/codenationstudent/Desktop/CSharp/intro/bin/Debug/netcoreapp3.1/intro.dll
+/Users/codenationstudent/Desktop/CSharp/intro/bin/Debug/netcoreapp3.1/intro.pdb
+/Users/codenationstudent/Desktop/CSharp/intro/obj/Debug/netcoreapp3.1/intro.csprojAssemblyReference.cache
+/Users/codenationstudent/Desktop/CSharp/intro/obj/Debug/netcoreapp3.1/intro.AssemblyInfoInputs.cache
+/Users/codenationstudent/Desktop/CSharp/intro/obj/Debug/netcoreapp3.1/intro.AssemblyInfo.cs
+/Users/codenationstudent/Desktop/CSharp/intro/obj/Debug/netcoreapp3.1/intro.csproj.CoreCompileInputs.cache
+/Users/codenationstudent/Desktop/CSharp/intro/obj/Debug/netcoreapp3.1/intro.dll
+/Users/codenationstudent/Desktop/CSharp/intro/obj/Debug/netcoreapp3.1/intro.pdb
+/Users/codenationstudent/Desktop/CSharp/intro/obj/Debug/netcoreapp3.1/intro.genruntimeconfig.cache
